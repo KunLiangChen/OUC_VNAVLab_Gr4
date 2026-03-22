@@ -1,6 +1,6 @@
 # Prerequisites
 *.d
-
+*.Ds_store
 # Compiled Object files
 *.slo
 *.lo
