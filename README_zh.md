@@ -9,6 +9,9 @@
   <img src="https://img.shields.io/badge/OUC%20x%20MIT-green?style=for-the-badge" alt="School">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </div>
+<p align="center">
+  <b>简体中文</b> | <a href="./README.md">English</a>
+</p>
 
 ---
 
